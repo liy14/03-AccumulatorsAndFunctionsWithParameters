@@ -7,7 +7,7 @@ This module demonstrates and practices:
   -- UNIT TESTING.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and Yi Li.
+         their colleagues and Yi Li .
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import m3t_tester
